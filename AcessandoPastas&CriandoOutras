@@ -1,0 +1,21 @@
+@echo off
+echo Criando pastas dentro de Huginho...
+mkdir C:\Huginho\Argentina
+mkdir C:\Huginho\Brasil
+mkdir C:\Huginho\Uruguai
+
+echo Criando pastas dentro de Zezinho...
+mkdir C:\Zezinho\Argentina
+mkdir C:\Zezinho\Brasil
+mkdir C:\Zezinho\Uruguai
+
+echo Criando pastas dentro de Luizinho...
+mkdir C:\Luizinho\Argentina
+mkdir C:\Luizinho\Brasil
+mkdir C:\Luizinho\Uruguai
+
+echo Verificando as pastas...
+dir C:\Huginho
+dir C:\Zezinho
+dir C:\Luizinho
+pause
