@@ -1,0 +1,6 @@
+@echo off
+echo Removendo pastas chamadas Argentina...
+rmdir /s /q C:\Huginho\Argentina
+rmdir /s /q C:\Zezinho\Argentina
+rmdir /s /q C:\Luizinho\Argentina
+pause
