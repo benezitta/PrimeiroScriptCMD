@@ -1,0 +1,4 @@
+@echo off
+echo Verificando a versão do sistema:
+ver
+pause
