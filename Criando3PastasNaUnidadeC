@@ -1,0 +1,6 @@
+@echo off
+echo Criando as pastas Huginho, Zezinho e Luizinho...
+mkdir C:\Huginho
+mkdir C:\Zezinho
+mkdir C:\Luizinho
+pause
