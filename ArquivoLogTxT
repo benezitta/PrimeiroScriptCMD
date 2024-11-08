@@ -1,0 +1,4 @@
+@echo off
+echo Criando arquivo log.txt...
+echo Log gerado em %date% às %time% > C:\log.txt
+pause
