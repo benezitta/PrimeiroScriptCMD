@@ -1,0 +1,4 @@
+@echo off
+echo Verificando o volume da unidade C:
+dir C:\
+pause
