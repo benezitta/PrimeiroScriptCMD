@@ -1,0 +1,6 @@
+@echo off
+echo Copiando o arquivo log.txt para as pastas Huginho, Zezinho e Luizinho...
+copy C:\log.txt C:\Huginho\
+copy C:\log.txt C:\Zezinho\
+copy C:\log.txt C:\Luizinho\
+pause
